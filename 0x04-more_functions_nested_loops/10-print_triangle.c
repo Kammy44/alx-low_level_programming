@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_trianglem - entry point
+ * print_triangle - entry point
  * Description: prints diagonals
  * @size: size of the triangle
  * Return:void
